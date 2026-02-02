@@ -1,10 +1,11 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
 import Bai1 from './components/Bai1.vue';
+import Bai2 from './components/Bai2.vue';
 </script>
 
 <template>
-  <Bai1/>
+  <Bai2/>
   <!--<div>
     <a href="https://vite.dev" target="_blank">
       <img src="/vite.svg" class="logo" alt="Vite logo" />
